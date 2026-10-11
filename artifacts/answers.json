@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "question": "What authentication methods does the API support?",
+    "answer": "# API Documentation\n\nThe API supports authentication using API keys and OAuth 2.0.",
+    "supported": true,
+    "citations": [
+      "chunk_2efdb6cdf54f"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How long are webhook delivery logs retained?",
+    "answer": "Webhook delivery logs are retained for 7 days.",
+    "supported": true,
+    "citations": [
+      "chunk_2efdb6cdf54f"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Is there a free plan for startups?",
+    "answer": "The Free plan is available to individual developers and startups.",
+    "supported": true,
+    "citations": [
+      "chunk_3688f639664c"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What happens if I exceed the rate limit?",
+    "answer": "The API rate limit is 100 requests per minute.",
+    "supported": true,
+    "citations": [
+      "chunk_2efdb6cdf54f"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Can I delete customer data immediately on request?",
+    "answer": "Customer data can be deleted upon request, with deletion completed within 30 days.",
+    "supported": true,
+    "citations": [
+      "chunk_2efdb6cdf54f"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Does the platform support GraphQL subscriptions?",
+    "answer": "The knowledge base does not provide enough information to answer this.",
+    "supported": false,
+    "citations": []
+  }
+]

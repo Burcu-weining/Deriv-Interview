@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "What authentication methods does the API support?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_2efdb6cdf54f",
+        "doc_id": "923f2a1adb38",
+        "score": 0.5262,
+        "text": "\n# API Documentation\n\nThe API supports authentication using API keys and OAuth 2.0.\n\nThe API rate limit is 100 requests per minute.\n\nIf a user exceeds the rate limit, the API returns HTTP 429 Too Many Requests.\n\nWebhook delivery logs are retained for 7 days.\n\nCustomer data can be deleted upon request, with deletion completed within 30 days.\n"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How long are webhook delivery logs retained?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_2efdb6cdf54f",
+        "doc_id": "923f2a1adb38",
+        "score": 0.2481,
+        "text": "\n# API Documentation\n\nThe API supports authentication using API keys and OAuth 2.0.\n\nThe API rate limit is 100 requests per minute.\n\nIf a user exceeds the rate limit, the API returns HTTP 429 Too Many Requests.\n\nWebhook delivery logs are retained for 7 days.\n\nCustomer data can be deleted upon request, with deletion completed within 30 days.\n"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Is there a free plan for startups?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_3688f639664c",
+        "doc_id": "e6029f1cc5c6",
+        "score": 0.5025,
+        "text": "\n# Pricing\n\nThe platform offers three plans: Free, Pro, and Enterprise.\n\nThe Free plan is available to individual developers and startups.\n\nThe Pro plan costs $29 per month.\n\nEnterprise pricing is customized based on usage.\n"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What happens if I exceed the rate limit?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_2efdb6cdf54f",
+        "doc_id": "923f2a1adb38",
+        "score": 0.3508,
+        "text": "\n# API Documentation\n\nThe API supports authentication using API keys and OAuth 2.0.\n\nThe API rate limit is 100 requests per minute.\n\nIf a user exceeds the rate limit, the API returns HTTP 429 Too Many Requests.\n\nWebhook delivery logs are retained for 7 days.\n\nCustomer data can be deleted upon request, with deletion completed within 30 days.\n"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Can I delete customer data immediately on request?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_2efdb6cdf54f",
+        "doc_id": "923f2a1adb38",
+        "score": 0.2148,
+        "text": "\n# API Documentation\n\nThe API supports authentication using API keys and OAuth 2.0.\n\nThe API rate limit is 100 requests per minute.\n\nIf a user exceeds the rate limit, the API returns HTTP 429 Too Many Requests.\n\nWebhook delivery logs are retained for 7 days.\n\nCustomer data can be deleted upon request, with deletion completed within 30 days.\n"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Does the platform support GraphQL subscriptions?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "chunk_3688f639664c",
+        "doc_id": "e6029f1cc5c6",
+        "score": 0.1741,
+        "text": "\n# Pricing\n\nThe platform offers three plans: Free, Pro, and Enterprise.\n\nThe Free plan is available to individual developers and startups.\n\nThe Pro plan costs $29 per month.\n\nEnterprise pricing is customized based on usage.\n"
+      }
+    ]
+  }
+]
