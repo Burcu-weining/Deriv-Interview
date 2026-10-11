@@ -44,3 +44,5 @@ answers.json
 citation_validation.json
 
 final_answers.json
+
+When an LLM is used, call metadata is also saved to llm_calls.jsonl.
